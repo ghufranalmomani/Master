@@ -246,6 +246,7 @@ button[type = submit]:hover {
     justify-content: space-between;
     align-items: center;
     padding: 5% 0;
+	font-family: 'Times New Roman', Times, serif;
 }
 footer img {
     width: 100%;

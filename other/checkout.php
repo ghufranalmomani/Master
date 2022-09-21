@@ -200,8 +200,8 @@ if ($result6->num_rows > 0) {
                                 <tr>
                                     <td>' . $row4["name"] . '</td>
                                     <td style="text-align: center;">' . $row4["quantity"] . '</td>
-                                    <td style="text-align: center; width: 30%;">$' . $row4["price"] . '</td>
-                                    <td style="text-align: right;">$' . ($row4["quantity"] * $row4["price"]) . '</td>
+                                    <td style="text-align: center; width: 30%;">JD' . $row4["price"] . '</td>
+                                    <td style="text-align: right;">JD' . ($row4["quantity"] * $row4["price"]) . '</td>
                                 </tr>';
                                 // $i++;
                             }
@@ -211,7 +211,7 @@ if ($result6->num_rows > 0) {
 
                         <tr>
                             <th style="text-align: left;">Total</th>
-                            <th style="text-align: right;" colspan="3">$<?php echo $total; ?></th>
+                            <th style="text-align: right;" colspan="3">JD<?php echo $total; ?></th>
                         </tr>
                     </table>
                     <div>

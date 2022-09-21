@@ -106,6 +106,12 @@ $resultcheck = mysqli_num_rows($run);
     <script src="https://kit.fontawesome.com/aca8d5a1fa.js" crossorigin="anonymous"></script>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
     <title>Admin Products</title>
+    <style>
+            body{
+  
+  background-color:#94B49F;
+ }
+        </style>
 </head>
 <body>
     <nav>
@@ -121,7 +127,7 @@ $resultcheck = mysqli_num_rows($run);
     </nav>
 
     <div class="container" id="title">
-    <h2 style="display: inline; color: #94B49F;"> Just For You </h2>
+    <h2 style="display: inline; color: #CEE5D0;"> Just For You </h2>
     
     <form method="post"><input type="submit" value="Add New Product" name="adding"></form>
     </div>
@@ -129,7 +135,7 @@ $resultcheck = mysqli_num_rows($run);
     <hr>
 
     <div class="container">
-    <p style="text-align: left; color: #888">Total number of products: <?php echo $resultcheck; ?><p>
+    <p style="text-align: left; color: black">Total number of products: <?php echo $resultcheck; ?><p>
     <div id="editdiv" style="display: <?php echo $display?>;">
                 <form action="?" method="post" enctype="multipart/form-data">
                     <input type="hidden" value="<?php echo $pro_id?>" name="proid">

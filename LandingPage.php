@@ -167,10 +167,10 @@ $pop='';
   
     <h1 id="categories-h1">Categories</h1>
     <div id="categories">
-         <a class="button" id ="cat1" style="width: 20%;" href="<?php echo $categorypath.'cat_id=1' ?>"></a>
-        <a class="button" id ="cat2"  style="width: 20%;" href="<?php echo $categorypath.'cat_id=2' ?>"></a>
-        <a class="button" id ="cat3"  style="width: 20%;" href="<?php echo $categorypath.'cat_id=3' ?>"></a>
-        <a class="button" id ="cat4"  style="width: 20%;" href="<?php echo $categorypath.'cat_id=4' ?>"></a>
+         <a class="button" id ="cat1" style="width: 24%;" href="<?php echo $categorypath.'cat_id=1' ?>"></a>
+        <a class="button" id ="cat2"  style="width: 24%;" href="<?php echo $categorypath.'cat_id=2' ?>"></a>
+        <a class="button" id ="cat3"  style="width: 24%;" href="<?php echo $categorypath.'cat_id=3' ?>"></a>
+        <a class="button" id ="cat4"  style="width: 24%;" href="<?php echo $categorypath.'cat_id=4' ?>"></a>
     </div>
     
     
@@ -180,7 +180,7 @@ $pop='';
     <h1 id="discount-h1">Discount Section</h1>
     <div id="discount" class="container">
         <?php  //////////////////// Roa make sale section danimec ++ add 2 colum to data base
-      $sql= 'SELECT * from products where     sale_status=1 LIMIT 3;';
+      $sql= 'SELECT * from products where     sale_status=1 LIMIT 6;';
       $result= mysqli_query($conn, $sql);
             $resultcheck = mysqli_num_rows($result);
                     if($resultcheck > 0)
@@ -202,6 +202,8 @@ $pop='';
       ?>
       
     </div>
+
+    
     <div id="seemore"><a href="<?php echo $shoppath; ?>">See More<a></div>
 
  
@@ -225,20 +227,20 @@ $pop='';
         <div class="carousel-inner">
           <div class="carousel-item active">
           <div id = "img1" style="height:500px;">
-             <img class="d-block w-100" src="https://zestoflime.com/wp-content/uploads/2021/11/Untitled-design-35-1024x683-1600x500.png" alt="First slide" style="height:500px;" >
+             <img class="d-block w-100" src="https://www.bhg.com/thmb/fCAmasbHnkqC_T82EyIE1B3i25s=/1920x480/filters:fill(auto,1)/christmas-gifts-category-c5325a2f-c42841fa4b694bf194317385c479d9ad.jpg" alt="First slide" style="height:500px;" >
                 </div>
             <div class="carousel-caption d-none d-md-block">
-              <h3 style="color: black;">Get your beloved one the best gift ever</h3>
+              <h3 style="color: black;"></h3>
               <p></p>
             </div>
           </div>
 
           <div class="carousel-item">
           <div id = "img2" style="height:500px;">
-            <img class="d-block w-100" src="https://www.ethicalsuperstore.com/blog/wp-content/uploads/2016/12/essblog-eco-xmaswrap.jpg" alt="Second slide" style="height:500px;"> 
+            <img class="d-block w-100" src="https://www.bhg.com/thmb/HX29SvdFEFBTPGhKGC8HUyTGW7Q=/2000x500/filters:fill(auto,1)/christmas-gifts-category-35bb6fda-2000-ca304fbe6f1c487aa2e88ecb28115e9d.jpg" alt="Second slide" style="height:500px;"> 
             </div>
             <div class="carousel-caption d-none d-md-block">
-              <h3 style="color: black;">Treat yourself with our high quality products</h3>
+              <h3 style="color: black;"></h3>
               <p></p>
             </div>
           </div>
@@ -246,10 +248,10 @@ $pop='';
         <div class="carousel-item">
           <div id = "img3" style="height:500px;">
 
-           <img class="d-block w-100" src="https://cdn.newsapi.com.au/image/v1/2daabef2c9d0b6688d221deb0a117b57" alt="Third slide" >
+           <img class="d-block w-100" src="https://www.cotswoldoutdoor.com/content/dam/cotswold/content/blog/christmasgiftingguidehero.jpg" alt="Third slide" >
                 </div>
             <div class="carousel-caption d-none d-md-block">
-              <h3 style="color: white;">Make your world more colorful</h3>
+              <h3 style="color: white;"></h3>
               <p></p>
             </div>
           </div>
@@ -276,22 +278,20 @@ $pop='';
             <img src="./Images/logo.png">
         </div>
         <div class="col-3">
-            <h1 style="text-align: center;">Stay In Touch</h1><br>
+            <h1 style="text-align: center;">Follow Us</h1><br>
             <h2 style="text-align: center;"></h2>
             <p style="text-align: center;" >
-            <a href="https://www.facebook.com/sephora/" target="_blank" ><i class="fa-brands fa-facebook"style="display: inline;"></a></i>
-            <a href="https://www.instagram.com/sephora/" target="_blank" ><i class="fa-brands fa-instagram"style="display: inline;"></a></i>
-            <a href="https://www.linkedin.com/company/sephora/" target="_blank" ><i class="fa-brands fa-linkedin"style="display: inline;"></a></i>
+            <a href="https://www.facebook.com/FlowardCo/" target="_blank" ><i class="fa-brands fa-facebook"style="display: inline;"></a></i>
+            <a href="https://www.instagram.com/flowardco/" target="_blank" ><i class="fa-brands fa-instagram"style="display: inline;"></a></i>
+            <a href="https://www.linkedin.com/company/flowardco/" target="_blank" ><i class="fa-brands fa-linkedin"style="display: inline;"></a></i>
             <br>
             <p style="text-align: center;">copyright <i class="fa-solid fa-copyright"></i> 2022 JustForYou</p>
         </div>
         <div class="col-3">
         <h1>Our Website</h1>
        
-<p> You'll find that all of our products are made of organic ingredients 
-    This means that our products are free of nanoparticles, parabens,
-    or other harmful or synthetic chemicals that could harm your skin.
- <b>"Our products are not tested on animals"<b>
+<p>Our full range covers all your gifting needs from the best floral arrangements to the highest quality gifts, that suit any occasion.
+ 
 </p>
     </div>
             </div>

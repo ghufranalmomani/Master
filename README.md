@@ -16,8 +16,12 @@ Founded in 2022, Just For You is an online flowers and gifting company; we pride
 
 Project Design
 1-Project Wireframe & Mockup
+https://miro.com/app/board/uXjVO18tN90=/
+
 
 
 2-Project Repo
+http://localhost/master/landingpage.php
+
 
 

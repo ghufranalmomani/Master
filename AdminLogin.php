@@ -50,6 +50,8 @@ if (isset($_POST['submit'])){
             width: 80%;
             margin-top: 100px;
             border-radius: 0;
+            background-color: #CEE5D0;
+
         }
         h1{
         margin-bottom: 50px;
@@ -83,6 +85,11 @@ if (isset($_POST['submit'])){
         #i11, #i22 {
             width: 25px;
         }
+
+        body{
+  
+  background-color:#94B49F;
+ }
 
     </style>
 </head>

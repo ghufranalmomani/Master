@@ -110,10 +110,10 @@ $pop='';
 
         
         <div class="head">
-            <h1 id="headerh1">Gifts For Great Days</h1>
-            <p style="font-size: 20px; font-weight: 600; margin: 30px auto;">Awesome Gift For Your Loved Once</p>
-            <h1 id="headerh1">Gifts For Great Days</h1>
-            <p style="font-size: 20px; font-weight: 600; margin: 30px auto;">Awesome Gift For Your Loved Once</p>
+            <h1 id="headerh1"></h1>
+            <p style="font-size: 20px; font-weight: 600; margin: 30px auto;"></p>
+            <h1 id="headerh1"></h1>
+            <p style="font-size: 20px; font-weight: 600; margin: 30px auto;"></p>
         </div>
     </header>
             
@@ -204,10 +204,10 @@ We also partner with exciting and creative designers to give them the opportunit
                 <h5 class="mb-0">Aya Alsawa</h5><span class="small text-uppercase text-muted">CEO - Founder <br>Our Creative Designer
 </span>
                 <ul class="social mb-0 list-inline mt-3">
-                  <li class="list-inline-item"><a href="https://web.facebook.com/ghufran.almomani" target="_blank" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
-                  <li class="list-inline-item"><a href="https://github.com/ghufranalmomani/" target="_blank" class="social-link"><i class="fa fa-github"></i></a></li>
-                  <li class="list-inline-item"><a href="https://www.instagram.com/almomanighufran" target="_blank" class="social-link"><i class="fa fa-instagram"></i></a></li>
-                  <li class="list-inline-item"><a href="https://www.linkedin.com/in/ghufran-almomani-777b93232" target="_blank" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.facebook.com/profile.php?id=100002580774137" target="_blank" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                  <li class="list-inline-item"><a href="https://github.com/11-ayaalsawa" target="_blank" class="social-link"><i class="fa fa-github"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.instagram.com/aya_alsawa06/" target="_blank" class="social-link"><i class="fa fa-instagram"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.linkedin.com/in/aya-alsawa-26bb74232/" target="_blank" class="social-link"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
               </div>
             </div>
@@ -218,10 +218,10 @@ We also partner with exciting and creative designers to give them the opportunit
               <div class="bg-white rounded shadow-sm py-5 px-4"><img src="./img/sara.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                 <h5 class="mb-0">Sara Kteifan</h5><span class="small text-uppercase text-muted">CEO - Founder <br> Our Creative Designer </span>
                 <ul class="social mb-0 list-inline mt-3">
-                  <li class="list-inline-item"><a href="https://web.facebook.com/roaa.yaseen.9/" target="_blank" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
-                  <li class="list-inline-item"><a href="https://github.com/roayas" target="_blank" class="social-link"><i class="fa fa-github"></i></a></li>
-                  <li class="list-inline-item"><a href="https://www.instagram.com/roaa.yaseen.9" target="_blank" class="social-link"><i class="fa fa-instagram"></i></a></li>
-                  <li class="list-inline-item"><a href="https://www.linkedin.com/in/ro-a-yaseen-58076696" target="_blank" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.facebook.com/sara.kteifan" target="_blank" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                  <li class="list-inline-item"><a href="https://github.com/SaraKteifan" target="_blank" class="social-link"><i class="fa fa-github"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.instagram.com/sara_kteifan" target="_blank" class="social-link"><i class="fa fa-instagram"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.linkedin.com/in/sara-kteifan-38803222a" target="_blank" class="social-link"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
               </div>
             </div>
@@ -233,10 +233,10 @@ We also partner with exciting and creative designers to give them the opportunit
               <div class="bg-white rounded shadow-sm py-5 px-4"><img src="./img/marwa.jpg" alt="" width="100" class="img-fluid rounded-circle mb-3 img-thumbnail shadow-sm">
                 <h5 class="mb-0">Marwa Nseerat</h5><span class="small text-uppercase text-muted">CEO - Founder <br>Our Creative Designer</span>
                 <ul class="social mb-0 list-inline mt-3">
-                  <li class="list-inline-item"><a href="https://www.facebook.com/sara.kteifan" target="_blank" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
-                  <li class="list-inline-item"><a href="https://github.com/SaraKteifan" target="_blank" class="social-link"><i class="fa fa-github"></i></a></li>
-                  <li class="list-inline-item"><a href="https://www.instagram.com/sara_kteifan" target="_blank" class="social-link"><i class="fa fa-instagram"></i></a></li>
-                  <li class="list-inline-item"><a href="https://www.linkedin.com/in/sara-kteifan-38803222a" target="_blank" class="social-link"><i class="fa fa-linkedin"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.facebook.com/gril.genration" target="_blank" class="social-link"><i class="fa fa-facebook-f"></i></a></li>
+                  <li class="list-inline-item"><a href="https://github.com/marwanseerat" target="_blank" class="social-link"><i class="fa fa-github"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.instagram.com/marwa.nseerat98/" target="_blank" class="social-link"><i class="fa fa-instagram"></i></a></li>
+                  <li class="list-inline-item"><a href="https://www.linkedin.com/in/marwa-nseerat-971057227/" target="_blank" class="social-link"><i class="fa fa-linkedin"></i></a></li>
                 </ul>
               </div>
             </div>
@@ -263,19 +263,17 @@ We also partner with exciting and creative designers to give them the opportunit
             <h1 style="text-align: center;">Follow Us</h1><br>
             <h2 style="text-align: center;"></h2>
             <p style="text-align: center;" >
-            <a href="https://www.facebook.com/sephora/" target="_blank" ><i class="fa-brands fa-facebook"style="display: inline;"></a></i>
-            <a href="https://www.instagram.com/sephora/" target="_blank" ><i class="fa-brands fa-instagram"style="display: inline;"></a></i>
-            <a href="https://www.linkedin.com/company/sephora/" target="_blank" ><i class="fa-brands fa-linkedin"style="display: inline;"></a></i>
+            <a href="https://www.facebook.com/FlowardCo/" target="_blank" ><i class="fa-brands fa-facebook"style="display: inline;"></a></i>
+            <a href="https://www.instagram.com/flowardco/" target="_blank" ><i class="fa-brands fa-instagram"style="display: inline;"></a></i>
+            <a href="https://www.linkedin.com/company/flowardco/" target="_blank" ><i class="fa-brands fa-linkedin"style="display: inline;"></a></i>
             <br>
             <p style="text-align: center;">copyright <i class="fa-solid fa-copyright"></i> 2022 JustForYou</p>
         </div>
         <div class="col-3">
-        <h2>Our Website</h2>
+        <h1>Our Website</h1>
        
-<p> You'll find that all of our products are made of organic ingredients 
-    This means that our products are free of nanoparticles, parabens,
-    or other harmful or synthetic chemicals that could harm your skin.
- <b>"Our products are not tested on animals"<b>
+<p>Our full range covers all your gifting needs from the best floral arrangements to the highest quality gifts, that suit any occasion.
+ 
 </p>
     </div>
             </div>

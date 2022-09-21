@@ -1,6 +1,6 @@
 body{
     margin: 0;
-    background-color: white;
+    background-color: #94B49F;
 }
 nav{
     display: flex;
@@ -23,7 +23,7 @@ nav a{
 }
 
 .board{
-    background-color: white;
+    background-color: #CEE5D0;
     width: 75%;
     margin: 30px auto;
     padding: 30px 60px;

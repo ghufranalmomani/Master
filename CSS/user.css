@@ -7,6 +7,7 @@
         background-color:#CEE5D0;
         border: none;
         border-radius: none;
+        color: #000;
     }
     .img-fluid {
         width: 80px;
@@ -18,6 +19,11 @@
         cursor: pointer;
     }
 
+    h5 {
+        font-size: 1.25rem;
+        color: black;
+    }
+
     #footerdiv{
         background-color: #000;
         color: white;
@@ -27,6 +33,7 @@
         justify-content: space-between;
         align-items: center;
         padding: 5% 0;
+        font-family: 'Times New Roman', Times, serif;
     }
     footer img {
         width: 100%;

@@ -186,12 +186,12 @@ $contact= '../contactUS.php?id='.$id;
                             <span>'.$row['name'].'</span>
                         </div>
                     </td>
-                    <td>$'.$row['price'].'</td>
+                    <td>JD'.$row['price'].'</td>
                     <td>
                         <input type="hidden" value="'.$row['product_id'].'" name="product_id'.$i.'">
                         <input type="number" class="num" min="1" value="'.$q.'" name="quan'.$i.'" id="">
                     </td>
-                    <td>$'.($row['price']*$row['quantity']).'</td>
+                    <td>JD'.($row['price']*$row['quantity']).'</td>
                     </tr>';
                     $quantity[] = $row['quantity'];
 
@@ -213,7 +213,7 @@ $contact= '../contactUS.php?id='.$id;
                 </table>
 
                 <div class="total">
-                    <h3>CART TOTAL: $<?php echo $sum; ?></h3>
+                    <h3>CART TOTAL: JD<?php echo $sum; ?></h3>
                     <form method="post">
                         <input type="submit" name="checkout" value="Checkout" class="change">
                     </form>

@@ -224,30 +224,28 @@ $pop='';
     </div>
 
     <footer>
-        <div id="footerdiv">
-            <div class="col-3">
-                <img src="./Images/logo.png">
-            </div>
-            <div class="col-3">
-                <h1 style="text-align: center;">Stay In Touch</h1><br>
-                <h2 style="text-align: center;"></h2>
-                <p style="text-align: center;">
-                    <a href="https://www.facebook.com/sephora/" target="_blank"><i class="fa-brands fa-facebook" style="display: inline;"></a></i>
-                    <a href="https://www.instagram.com/sephora/" target="_blank"><i class="fa-brands fa-instagram" style="display: inline;"></a></i>
-                    <a href="https://www.linkedin.com/company/sephora/" target="_blank"><i class="fa-brands fa-linkedin" style="display: inline;"></a></i>
-                    <br>
-                <p style="text-align: center;">copyright <i class="fa-solid fa-copyright"></i> 2022 JustForYou</p>
-            </div>
-            <div class="col-3">
-                <h1>Our Website</h1>
-
-                <p> You'll find that all of our products are made of organic ingredients
-                    This means that our products are free of nanoparticles, parabens,
-                    or other harmful or synthetic chemicals that could harm your skin.
-                    <b>"Our products are not tested on animals"<b>
-                </p>
-            </div>
+    <div id="footerdiv">
+        <div class="col-3">
+            <img src="./Images/logo.png">
         </div>
+        <div class="col-3">
+            <h1 style="text-align: center;">Follow Us</h1><br>
+            <h2 style="text-align: center;"></h2>
+            <p style="text-align: center;" >
+            <a href="https://www.facebook.com/FlowardCo/" target="_blank" ><i class="fa-brands fa-facebook"style="display: inline;"></a></i>
+            <a href="https://www.instagram.com/flowardco/" target="_blank" ><i class="fa-brands fa-instagram"style="display: inline;"></a></i>
+            <a href="https://www.linkedin.com/company/flowardco/" target="_blank" ><i class="fa-brands fa-linkedin"style="display: inline;"></a></i>
+            <br>
+            <p style="text-align: center;">copyright <i class="fa-solid fa-copyright"></i> 2022 JustForYou</p>
+        </div>
+        <div class="col-3">
+        <h1>Our Website</h1>
+       
+<p>Our full range covers all your gifting needs from the best floral arrangements to the highest quality gifts, that suit any occasion.
+ 
+</p>
+    </div>
+            </div>
     </footer>
 </body>
 

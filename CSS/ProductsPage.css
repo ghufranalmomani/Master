@@ -29,7 +29,7 @@ nav a{
 }
 
 .board{
-    background-color:#FCF8E8;
+    background-color:#CEE5D0;
     width: 75%;
     margin: 30px auto;
     padding: 30px 60px;
@@ -101,6 +101,7 @@ a{
     justify-content: space-between;
     align-items: center;
     padding: 5% 0;
+    font-family: 'Times New Roman', Times, serif;
 }
 footer img {
     width: 100%;

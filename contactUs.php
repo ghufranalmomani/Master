@@ -116,10 +116,10 @@ $pop='';
 
         
         <div class="head">
-            <h1 id="headerh1">Gifts For Great Days</h1>
-            <p style="font-size: 20px; font-weight: 600; margin: 30px auto;">Awesome Gift For Your Loved Once</p>
-            <h1 id="headerh1">Gifts For Great Days</h1>
-            <p style="font-size: 20px; font-weight: 600; margin: 30px auto;">Awesome Gift For Your Loved Once</p>
+            <h1 id="headerh1"></h1>
+            <p style="font-size: 20px; font-weight: 600; margin: 30px auto;"></p>
+            <h1 id="headerh1"></h1>
+            <p style="font-size: 20px; font-weight: 600; margin: 30px auto;"></p>
         </div>
     </header>
             
@@ -190,7 +190,7 @@ $pop='';
     
           <!--Google map-->
           <div id="map-container-section" class="z-depth-1-half map-container-section mb-4" style="height: 400px">
-            <iframe src="https://maps.google.com/maps?q=aqaba&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0"
+            <iframe src="https://maps.google.com/maps?q=amman&t=&z=15&ie=UTF8&iwloc=&output=embed" frameborder="0"
               style="border:0" allowfullscreen></iframe>
           </div>
           <!-- Buttons-->
@@ -199,22 +199,22 @@ $pop='';
               <a class="btn-floating blue accent-1">
                 <i class="fas fa-map-marker-alt"></i>
               </a>
-              <p>Aqaba, 94126</p>
+              <p>Amman,94126</p>
               <p class="mb-md-0">Jordan</p>
             </div>
             <div class="col-md-4">
               <a class="btn-floating blue accent-1">
                 <i class="fas fa-phone"></i>
               </a>
-              <p>+ 996 277 567 89</p>
-              <p class="mb-md-0">Mon - Fri, 8:00-22:00</p>
+              <p>+962778930139</p>
+              <p class="mb-md-0">Sun - Fri, 8:00-22:00</p>
             </div>
             <div class="col-md-4">
               <a class="btn-floating blue accent-1">
                 <i class="fas fa-envelope"></i>
               </a>
-              <p>info@gmail.com</p>
-              <p class="mb-0">sale@gmail.com</p>
+              <p>JustForYou@gmail.com</p>
+              <p class="mb-0">JustForYou@gmail.com</p>
             </div>
           </div>
     
@@ -238,19 +238,17 @@ $pop='';
             <h1 style="text-align: center;">Follow Us</h1><br>
             <h2 style="text-align: center;"></h2>
             <p style="text-align: center;" >
-            <a href="https://www.facebook.com/sephora/" target="_blank" ><i class="fa-brands fa-facebook"style="display: inline;"></a></i>
-            <a href="https://www.instagram.com/sephora/" target="_blank" ><i class="fa-brands fa-instagram"style="display: inline;"></a></i>
-            <a href="https://www.linkedin.com/company/sephora/" target="_blank" ><i class="fa-brands fa-linkedin"style="display: inline;"></a></i>
+            <a href="https://www.facebook.com/FlowardCo/" target="_blank" ><i class="fa-brands fa-facebook"style="display: inline;"></a></i>
+            <a href="https://www.instagram.com/flowardco/" target="_blank" ><i class="fa-brands fa-instagram"style="display: inline;"></a></i>
+            <a href="https://www.linkedin.com/company/flowardco/" target="_blank" ><i class="fa-brands fa-linkedin"style="display: inline;"></a></i>
             <br>
             <p style="text-align: center;">copyright <i class="fa-solid fa-copyright"></i> 2022 JustForYou</p>
         </div>
         <div class="col-3">
-        <h2>Our Website</h2>
+        <h1>Our Website</h1>
        
-<p> You'll find that all of our products are made of organic ingredients 
-    This means that our products are free of nanoparticles, parabens,
-    or other harmful or synthetic chemicals that could harm your skin.
- <b>"Our products are not tested on animals"<b>
+<p>Our full range covers all your gifting needs from the best floral arrangements to the highest quality gifts, that suit any occasion.
+ 
 </p>
     </div>
             </div>

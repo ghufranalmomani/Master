@@ -100,27 +100,30 @@ header {
     animation : pulse 2s ; 
 }
 #cat1{
-    background-image: url('https://lisini.co.uk/wp-content/uploads/2019/11/GenericCard8-min.png');
+    background-image: url('https://as2.ftcdn.net/v2/jpg/01/35/90/71/1000_F_135907126_pkjADNAppRzdzQac0KW5zpA9KZkPdmzJ.jpg');
     background-repeat: no-repeat;
     background-size: cover;
+    border-radius: 50%;
    
 }
 
 #cat2{
-    background-image: url('https://ih1.redbubble.net/image.1134088959.1015/bg,f8f8f8-flat,750x,075,f-pad,750x1000,f8f8f8.jpg');
+    background-image: url('https://www.kindpng.com/picc/m/205-2054459_circle-ramadan-mosque-moon-and-mosque-png-transparent.png');
     background-repeat: no-repeat;
     background-size: cover;
-    color: white;
+    border-radius: 50%;
 }
 #cat3{
-    background-image: url('https://i.pinimg.com/736x/ea/b1/a6/eab1a6a9ad59c5222994a3da88b06638--art-illustrations-graduation.jpg');
+    background-image: url('https://thumbs.dreamstime.com/b/congratulations-card-flowers-calligraphy-design-35692262.jpg');
     background-repeat: no-repeat;
     background-size:cover;
+    border-radius: 50%;
 }
 #cat4{
-    background-image: url('https://d1xkhapf8f3lxw.cloudfront.net/api/images/CardShop/1/product/ljb076/1?w=350&productSizeId=1');
+    background-image: url('https://ae01.alicdn.com/kf/H69abb7f96a62410cb762c210cb3bf2152/Boy-or-Girl-Baby-Shower-Round-Background-Circle-Photo-Backdrop-Gender-Real-Party-Decoration-Dessert-Table.jpg_Q90.jpg_.webp');
     background-repeat: no-repeat;
     background-size: cover;
+    border-radius: 50%;
 } 
 
 #cat5{

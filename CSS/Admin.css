@@ -1,15 +1,17 @@
 nav {
-    background-color: black;
+    background-color: white;
     width: 100%;
 
 }
+
+
 
 
 nav img {
     width: 7%;
 }
 nav span {
-    color:white;
+    color:black;
     margin: 0 1%;
     font-family: 'Times New Roman', Times, serif;
     font-size: larger;
@@ -27,7 +29,7 @@ nav a:hover{
     text-align: center;
 }
 .container div {
-    border: solid 1px  #94B49F;
+    border: solid 1px  #CEE5D0;
     border-radius: 10px;
     margin: 5%;
     padding: 2%;
@@ -42,7 +44,7 @@ nav a:hover{
     text-decoration: none;
 }
 .container a:hover {
-    color:  #94B49F;
+    color:  #CEE5D0;
     text-decoration: none;
 }
 
